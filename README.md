@@ -46,12 +46,16 @@ Packaging ----> zipfile
 1. Clone the Repository
 - git clone 
 cd ai-portfolio-generator
+
 2. Create Virtual Environment (Recommended)
 - python -m venv venv
 - venv\Scripts\activate
+  
 3.Install Dependencies
 - pip install -r requirements.txt
+  
 4.Configure Environment Variables
 - Create a .env file:
 - GEMINI=your_google_gemini_api_key
+  
 5. Run the Application
